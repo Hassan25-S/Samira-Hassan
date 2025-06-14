@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 
     <head>
@@ -58,7 +58,7 @@ Please wear a touch of soft pink to celebrate our little angel.</p>
 
 <p id="rsvp">📝 RSVP by 28th June 2025.</p> 
 
-<p  id= "email"> <strong> Fatima osman. fatima.osman25@gmail.com </strong> </p> 
+<p  id= "email"> <strong> Fatima osman. Fatima.osman25@gmail.com </strong> </p> 
 
 <p>Join us as we give thanks to Allah (SWT)
 for 40 days of love, blessings, and joy
